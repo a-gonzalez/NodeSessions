@@ -16,11 +16,11 @@ const authorizer = (username, password /*, callback*/) =>
 			//result = callback(null, true);
 			result = true;
 
-			console.log("Authenticated: %s @ %s", username, new Date().toDateString());
+			console.log("Authenticated: %s @ %s", username, new Date().toLocaleString());
 		}
 		else
 		{
-			console.log("Rejected: %s @ %s", username, new Date().toDateString());
+			console.log("Rejected: %s @ %s", username, new Date().toLocaleString());
 		}
 	}
 	return result;
@@ -37,7 +37,7 @@ const getUnauthorizedResponse = (request) =>
 	return result;
 };
 
-const port = 8286;
+const port = 8287;
 const config = {
 	challenge: true,
 	authorizer: authorizer,
