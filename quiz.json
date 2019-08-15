@@ -1,7 +1,7 @@
 [
 	{
-		name: "Clark Kent",
-		hero: "Superman"
+		"name": "Clark Kent",
+		"hero": "Superman"
 	},
 	{
 		name: "Diana Prince",
