@@ -5,42 +5,52 @@
 		"hero": "Superman"
 	},
 	{
+		"id": 2,
 		"name": "Diana Prince",
 		"hero": "Wonder Woman"
 	},
 	{
+		"id": 3,
 		"name": "Bruce Wayne",
 		"hero": "Batman"
 	},
 	{
+		"id": 4,
 		"name": "Barry Allen",
 		"hero": "Flash"
 	},
 	{
+		"id": 5,
 		"name": "Holly Robinson",
 		"hero": "Catwoman"
 	},
 	{
+		"id": 6,
 		"name": "Hal Jordan",
 		"hero": "Green Lantern"
 	},
 	{
+		"id": 7,
 		"name": "Arthur Curry",
 		"hero": "Aquaman"
 	},
 	{
+		"id": 8,
 		"name": "Victor Stone",
 		"hero": "Cyborg"
 	},
 	{
+		"id": 9,
 		"name": "Oliver Queen",
 		"hero": "Green Arrow"
 	},
 	{
+		"id": 10,
 		"name": "Katherine Kane",
 		"hero": "Batwoman"
 	},
 	{
+		"id": 11,
 		"name": "Kory Anders",
 		"hero": "Starfire"
 	}
