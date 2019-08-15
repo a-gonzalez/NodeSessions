@@ -1,0 +1,46 @@
+[
+	{
+		name: "Clark Kent",
+		hero: "Superman"
+	},
+	{
+		name: "Diana Prince",
+		hero: "Wonder Woman"
+	},
+	{
+		name: "Bruce Wayne",
+		hero: "Batman"
+	},
+	{
+		name: "Barry Allen",
+		hero: "Flash"
+	},
+	{
+		name: "Holly Robinson",
+		hero: "Catwoman"
+	},
+	{
+		name: "Hal Jordan",
+		hero: "Green Lantern"
+	},
+	{
+		name: "Arthur Curry",
+		hero: "Aquaman"
+	},
+	{
+		name: "Victor Stone",
+		hero: "Cyborg"
+	},
+	{
+		name: "Oliver Queen",
+		hero: "Green Arrow"
+	},
+	{
+		name: "Katherine Kane",
+		hero: "Batwoman"
+	},
+	{
+		name: "Kory Anders",
+		hero: "Starfire"
+	}
+]
